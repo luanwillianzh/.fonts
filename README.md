@@ -1,4 +1,6 @@
 # .fonts
+Download: https://www42.zippyshare.com/v/Up56lbKU/file.html
+
 Just create a .fonts folder in your home directory (if it doesn't exist) and unpack/copy them there.
 
 It's also a good idea to manually rebuild the font cache, so you can immediately use the fonts everywhere:
